@@ -13,7 +13,7 @@ Nesse período, o Brasil avançou com a implementação do [Plano de Dados Abert
 
 3) A qualidade dos dados disponibilizada nos portais de transparência é bastante precária. Como exemplo, iniciativa de análise dos dados da prefeitura de João Pessoa indica que, de um universo de 218 atributos analisados, [cerca de 49 atributos (ou 22,5%) possuem anomalia significativa que inviabiliza o uso desses atributos em qualquer contexto](http://rpubs.com/rodrigoalmeida/cidadesqualificadas). Há também sérios problemas relacionados à formatação dos conjuntos de dados. 
 
-Todos esses desafios abrem oportunidade para a promoção da rede de organização dos dados abertos ao mesmo tempo que se torna provedora de serviços para qualificação e segurança de dados abertos de todos os orgãos do governo federal.
+Todos esses desafios abrem oportunidade para a promoção da rede de organização dos dados abertos ao mesmo tempo que abre a necessidade de fornecimento de serviços para qualificação e segurança de dados abertos de todos os orgãos do governo federal.
 
 # Solução
 
